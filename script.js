@@ -9,6 +9,6 @@ function math () {
   height = document.getElementById('height').value
   base1 = document.getElementById('base1').value
   base2 = document.getElementById('base2').value
-  number = base1/2 * height + base2/2 *height
+  number = base1 / 2 * height + base2 / 2 * height
   alert(number)
 }
